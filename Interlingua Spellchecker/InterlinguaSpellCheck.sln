@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterlinguaSpellCheck", "InterlinguaSpellCheck\InterlinguaSpellCheck.csproj", "{B9536751-B477-40E7-A5FD-E63D5907E6BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InterlinguaSpellCheckSetup", "InterlinguaSpellCheckSetup\InterlinguaSpellCheckSetup.vdproj", "{3BFC0211-E318-4101-BC70-ABA59F481E2C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InterlinguaSpellCheckSetup64", "InterlinguaSpellCheckSetup64\InterlinguaSpellCheckSetup64.vdproj", "{66311552-6E36-439A-B086-F481C8E87422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9536751-B477-40E7-A5FD-E63D5907E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9536751-B477-40E7-A5FD-E63D5907E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9536751-B477-40E7-A5FD-E63D5907E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9536751-B477-40E7-A5FD-E63D5907E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFC0211-E318-4101-BC70-ABA59F481E2C}.Debug|Any CPU.ActiveCfg = Debug
+		{3BFC0211-E318-4101-BC70-ABA59F481E2C}.Debug|Any CPU.Build.0 = Debug
+		{3BFC0211-E318-4101-BC70-ABA59F481E2C}.Release|Any CPU.ActiveCfg = Release
+		{3BFC0211-E318-4101-BC70-ABA59F481E2C}.Release|Any CPU.Build.0 = Release
+		{66311552-6E36-439A-B086-F481C8E87422}.Debug|Any CPU.ActiveCfg = Debug
+		{66311552-6E36-439A-B086-F481C8E87422}.Debug|Any CPU.Build.0 = Debug
+		{66311552-6E36-439A-B086-F481C8E87422}.Release|Any CPU.ActiveCfg = Release
+		{66311552-6E36-439A-B086-F481C8E87422}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B561D39-F3A4-46CB-AB00-44B132A75876}
+	EndGlobalSection
+EndGlobal

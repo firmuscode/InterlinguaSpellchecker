@@ -1,0 +1,16 @@
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Interlingua Spell Check.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Interlingua Spell Check.pdb
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Interlingua Spell Check.dll.manifest
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Interlingua Spell Check.vsto
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Microsoft.Office.Tools.Word.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.csprojAssemblyReference.cache
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.frmInterlingua.resources
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.InterlinguaSpellCheck.resources
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.Properties.Resources.resources
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.csproj.GenerateResource.cache
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\InterlinguaSpellCheck.csproj.CopyComplete
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\Interlingua Spell Check.dll
+E:\Firmuscode\Bohdan\Interlingua Spellchecker\Interlingua Spellchecker\InterlinguaSpellCheck\obj\Debug\Interlingua Spell Check.pdb
