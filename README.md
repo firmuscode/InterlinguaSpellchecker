@@ -34,4 +34,4 @@ GNU GENERAL PUBLIC LICENSE v2
 
 Special Thanks
 ==============
-Thanks to Bohdan Šmilauer (b.smilauer@post.cz) for financing the initial addin development, as well as to Kunal Desai for his work on this project: https://www.freelancer.com/u/firmuscode.html (kunal@firmuscode.com)
+Thanks to Bohdan Šmilauer (b.smilauer@post.cz) for supporting the initial addin development, as well as to Kunal Desai for his work on this project: https://www.freelancer.com/u/firmuscode.html (kunal@firmuscode.com)
